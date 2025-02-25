@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🌱 I’m currently learning about you
 
 <!--
 **truongminhng/truongminhng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
